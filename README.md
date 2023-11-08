@@ -1,4 +1,6 @@
 # Olá mundo!
- primeiro reposit´ório
+ primeiro repositório
 
 Reposítorio criado pelo curso do curso em video
+
+Primeira linha alterada pelo Github
